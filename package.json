@@ -1,0 +1,25 @@
+{
+  "name": "mhealth_terms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-handlebars": "^8.0.1"
+  },
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "jest --detectOpenHandles",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palladiumkenya/mhealth_terms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palladiumkenya/mhealth_terms/issues"
+  },
+  "homepage": "https://github.com/palladiumkenya/mhealth_terms#readme"
+}
